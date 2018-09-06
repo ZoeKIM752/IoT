@@ -1,7 +1,7 @@
 # IoT-LAB
 <center>
 
-![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/Photo&Video/iot.jpg)
+![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/iot.jpg)
 
 ## Project title
 IoT-based Smart Home utilizing bluetooth and WiFi.
