@@ -10,7 +10,7 @@ A little info about your project and/ or overview that explains **what** the pro
 Include logo/demo screenshot etc.
 
 ## Tech/framework used
-Ex. -
+Ex. android studio, wifi, arduino, ...
 
 <b>Built with</b>
 - [Electron](https://electron.atom.io)
