@@ -10,7 +10,7 @@ How wonderful it would be to open the door without getting up?
 
 We began the project with laziness like this. Our goal is to implement using IoT.
 
-## Project Progress
+##
 ![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/baehaem.gif)
 
 ## Tech/framework used
