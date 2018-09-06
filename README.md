@@ -4,7 +4,7 @@
 ![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/iot.jpg)
 
 ## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+IoT-based Smart Home utilizing bluetooth and WiFi.
 
 ## Screenshots
 Include logo/demo screenshot etc.
