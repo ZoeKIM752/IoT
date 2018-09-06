@@ -6,12 +6,8 @@
 ## Project title
 IoT-based Smart Home utilizing bluetooth and WiFi.
 
-<video width="320" height="240" controls>
-  <source src="sample.mp4" type="sample/mp4">
-</video>
-
 ## Project Progress
-![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/iot.jpg)
+![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/project1.gif)
 
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
