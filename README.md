@@ -3,25 +3,14 @@
 
 ![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/Photo&Video/iot.jpg)
 
-## IoT-based Smart Home utilizing bluetooth and WiFi
-How wonderful it would be to turn off the lights when you lay down to go to bed?
-
-How wonderful it would be to open the door without getting up?
-
-We began the project with laziness like this. Our goal is to implement using IoT.
+## Project title
+IoT-based Smart Home utilizing bluetooth and WiFi.
 
 ## Screenshots
 Include logo/demo screenshot etc.
 
 ## Project Progress
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
-
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
-
-{% youtube https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF %}
-
-{% include video1.html id="A_zuHvBlvkA" %}
-
+<a href="https://imgflip.com/gif/2hcdc3"><img src="https://i.imgflip.com/2hcdc3.gif" title="made at imgflip.com"/></a>
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
 
