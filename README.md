@@ -10,7 +10,7 @@ IoT-based Smart Home utilizing bluetooth and WiFi.
 Include logo/demo screenshot etc.
 
 ## Project Progress
-<a href="https://imgflip.com/gif/2hcdc3"><img src="https://i.imgflip.com/2hcdc3.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2hcdc3"><img src="https://i.imgflip.com/2hcdc3.gif" title=""/></a>
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
 
