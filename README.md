@@ -6,8 +6,9 @@
 ## Project title
 IoT-based Smart Home utilizing bluetooth and WiFi.
 
-## Screenshots
-Include logo/demo screenshot etc.
+<video width="320" height="240" controls>
+  <source src="sample.mp4" type="sample/mp4">
+</video>
 
 ## Project Progress
 <a href="https://imgflip.com/gif/2hcdc3"><img src="https://i.imgflip.com/2hcdc3.gif" title=""/></a>
