@@ -28,10 +28,13 @@
 #include <SoftwareSerial.h>
 #include <Servo.h> 
 
+//int PIN of servo moter to PIN 9 of Arduino
 int servoPin = 9;
-SoftwareSerial mySerial(2, 3); // RX, TX
 Servo servo; 
-String str;
+
+//Blutooth communication
+SoftwareSerial mySerial(2, 3); // RX, TX
+String str;  //String from Bluetooth device
 #define STRART "start"
 
 int angle = 0; // servo position in degrees 
@@ -49,21 +52,19 @@ void setup() {
 void loop() { // run over and over
   if (mySerial.available()) {
     str = mySerial.readString();
+    
+    //if string from the device is "start", trun on the moter
     if(str.equals(STRART)) {
       Serial.println(str);
-      int before;
       for(angle = 1; angle < 118; angle++) { 
         servo.write(angle);
         delay(7); 
       }
-      // now scan back from 180 to 0 degrees
+      // now scan back from current angle to 0 degrees
      for(angle = servo.read(); angle > 0; angle--) { 
         servo.write(angle); 
         delay(7); 
       } 
     }
-  }
-  if (Serial.available()) {
-    mySerial.write(Serial.read());
   }
 }
