@@ -14,7 +14,7 @@ Include logo/demo screenshot etc.
 
 [![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
 
-{% youtube http://youtube/NiYCgVKioI4 %}
+{% youtube https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF %}
 
 {% include video1.html id="A_zuHvBlvkA" %}
 
