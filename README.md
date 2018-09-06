@@ -11,6 +11,9 @@ Include logo/demo screenshot etc.
 
 ## Project Progress
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
+
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
+
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
 
