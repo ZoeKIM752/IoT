@@ -3,11 +3,15 @@
 
 ![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/iot.jpg)
 
-## Project title
-IoT-based Smart Home utilizing bluetooth and WiFi.
+## ## IoT-based Smart Home utilizing bluetooth and WiFi
+How wonderful it would be to turn off the lights when you lay down to go to bed?
+
+How wonderful it would be to open the door without getting up?
+
+We began the project with laziness like this. Our goal is to implement using IoT.
 
 ## Project Progress
-![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/project1.gif)
+![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/NotImportant/baehaem.gif)
 
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
