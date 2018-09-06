@@ -1,7 +1,7 @@
 # IoT-LAB
 <center>
 
-![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/iot.jpg)
+![alt tag](https://raw.githubusercontent.com/Seungyeup/IoT-LAB/master/Photo&Video/iot.jpg)
 
 ## Project title
 IoT-based Smart Home utilizing bluetooth and WiFi.
@@ -14,7 +14,7 @@ Include logo/demo screenshot etc.
 
 [![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=60DuM_F3i0c&list=PLMlLLDtU7vM5mGAQOdJsrATqixDwHHVqF)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
+{% include video1.html id="A_zuHvBlvkA" %}
 
 ## Tech/framework used
 Ex. android studio, wifi, arduino, ...
